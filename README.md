@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I'm just a student how like to be good at what he's doing.
+I’m currently learning how to use AI tools within the next genertion about programming.
+Cloude, ChatGpt, Antigravity...
+Reach me out via linkedIn.
 <!--
 **alialnafaakh/alialnafaakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
